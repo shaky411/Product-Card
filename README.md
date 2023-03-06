@@ -2,6 +2,10 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+## Screenshot
+
+![Alt text](images/Project_1.png)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
